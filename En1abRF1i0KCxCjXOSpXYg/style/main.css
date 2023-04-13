@@ -1,0 +1,12 @@
+/* Estilos para el cuerpo del documento */
+
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    margin: 0;
+    background-color: #222;
+    color: #fff;
+    background: url('https://raw.githubusercontent.com/SakuJS/sakujs.github.io/main/src/static/images/content/header-blurred.jpg') no-repeat center center fixed;
+    background-size: cover;
+    overflow-x:hidden;
+}
+

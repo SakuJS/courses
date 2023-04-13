@@ -8,7 +8,7 @@ Tags:
 Fecha de Creacion:
 
 ## Resumen del curso
-Aquí es donde se situa el resumen del curso
+AquÃ­ es donde se situa el resumen del curso
 
 
 ## Orden de las lecciones
